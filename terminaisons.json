@@ -1,0 +1,50 @@
+{
+  "indicatif": {
+    "présent": {
+      "1er groupe": ["e", "es", "e", "ons", "ez", "ent"],
+      "2e groupe": ["is", "is", "it", "issons", "issez", "issent"],
+      "3e groupe": ["s", "s", "t", "ons", "ez", "ent"]
+    },
+    "imparfait": {
+      "1er groupe": ["ais", "ais", "ait", "ions", "iez", "aient"],
+      "2e groupe": ["issais", "issais", "issait", "issions", "issiez", "issaient"],
+      "3e groupe": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    },
+    "futur simple": {
+      "1er groupe": ["erai", "eras", "era", "erons", "erez", "eront"],
+      "2e groupe": ["irai", "iras", "ira", "irons", "irez", "iront"],
+      "3e groupe": ["rai", "ras", "ra", "rons", "rez", "ront"]
+    },
+    "passé simple": {
+      "1er groupe": ["ai", "as", "a", "âmes", "âtes", "èrent"],
+      "2e groupe": ["is", "is", "it", "îmes", "îtes", "irent"],
+      "3e groupe": ["us", "us", "ut", "ûmes", "ûtes", "urent"]
+    }
+  },
+  "subjonctif": {
+    "présent": {
+      "1er groupe": ["e", "es", "e", "ions", "iez", "ent"],
+      "2e groupe": ["isse", "isses", "isse", "issions", "issiez", "issent"],
+      "3e groupe": ["e", "es", "e", "ions", "iez", "ent"]
+    },
+    "imparfait": {
+      "1er groupe": ["asse", "asses", "ât", "assions", "assiez", "assent"],
+      "2e groupe": ["isse", "isses", "ît", "issions", "issiez", "issent"],
+      "3e groupe": ["usse", "usses", "ût", "ussions", "ussiez", "ussent"]
+    }
+  },
+  "conditionnel": {
+    "présent": {
+      "1er groupe": ["erais", "erais", "erait", "erions", "eriez", "eraient"],
+      "2e groupe": ["irais", "irais", "irait", "irions", "iriez", "iraient"],
+      "3e groupe": ["rais", "rais", "rait", "rions", "riez", "raient"]
+    }
+  },
+  "impératif": {
+    "présent": {
+      "1er groupe": ["e", "ons", "ez"],
+      "2e groupe": ["is", "issons", "issez"],
+      "3e groupe": ["s", "ons", "ez"]
+    }
+  }
+}
